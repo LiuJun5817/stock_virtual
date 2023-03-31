@@ -101,6 +101,7 @@ export default {
 
 <style>
 .flow_box {
+    text-align: center;
     width: 240px;
     height: 645px;
     margin-top: 10px;

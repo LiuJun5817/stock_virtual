@@ -3,7 +3,7 @@
     <div class="nav">
         <!--   头部导航 navigator     -->
         <img src="../img/汉堡包.png" alt="logo 图" @click="unfold_info" style="cursor:pointer;">
-        <span class="title">股权分配虚拟仿真实验平台</span>
+        <span class="title">新创科企“股权分配管理”虚拟仿真实验平台</span>
         <!-- 无意义的，为了撑开布局空间 -->
         <span class="spacer"></span>
         <img src="../img/金币.png" alt="">
